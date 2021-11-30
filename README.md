@@ -10,6 +10,6 @@ Uses these ratios to calculate linear sentiment (linSentiment()) or exponential 
 Linear Sentiment:  
 Each ratio is weighted equally, regardless of how far in the future they are.  
   
-Exponential Sentiment:
+Exponential Sentiment:  
 Each ratio is weighted exponentially, the further the expiration date, the heavier the weighting. 
   
